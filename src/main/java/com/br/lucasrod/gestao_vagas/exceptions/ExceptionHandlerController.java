@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
 
+@SuppressWarnings("null")
 @ControllerAdvice
 public class ExceptionHandlerController {
 
